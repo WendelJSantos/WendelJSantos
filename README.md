@@ -20,16 +20,20 @@ Utilizo técnicas como análise de requisitos, análise de logs, inspeção de c
 Sou uma pessoa detalhista, organizada e adoro trabalhar em equipe. Valorizo ambientes leves e colaborativos, onde há espaço para aprendizado mútuo e crescimento contínuo. Tenho facilidade de adaptação a diferentes contextos e estou acostumado a lidar com a volatilidade natural dos processos de desenvolvimento de software.
 
 
-
 ---
 
 <div align="center">
   <a href="https://github.com/WendelJSantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WendelJSantos&theme=react&hide_border=false&include_all_commits=false&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WendelJSantos&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-  <img height="360em" src="https://github-readme-activity-graph.vercel.app/graph?username=WendelJSantos&radius=16&theme=redical&area=true&order=5&hide_title=false&hide_border=true" alt="activity-graph graph"  />
+  <img height="260em" src="https://github-readme-activity-graph.vercel.app/graph?username=WendelJSantos&radius=16&theme=redical&area=true&order=5&hide_title=false&hide_border=true" alt="activity-graph graph"  />
 </div>
 
+<picture align="center" >
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WendelJSantos/WendelJSantos/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WendelJSantos/WendelJSantos/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WendelJSantos/WendelJSantos/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 <!-- Contador de Visitantes -->
