@@ -8,17 +8,16 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/wendel-jsantos/)
 - ✉️ wendel.jsantos@hotmail.com
 
-## 💻 Áreas de Interesse
+---
 
-- **QA** – Assegurando a Qualidade das Aplicações:
-  - **Testes Manuais:** Análise detalhada e execução de testes manuais para garantir a qualidade do software.
-  - **Testes Automatizados:** Desenvolvimento de scripts para automatizar testes e aumentar a eficiência.
-  - **Testes de Performance:** Avaliação da escalabilidade e estabilidade das aplicações.
+## Sobre mim
+
+Especialista em Qualidade de Software com mais de oito anos de experiência em garantia da qualidade, sendo os últimos cinco anos dedicados a produtos do setor financeiro, atuando em cooperativas de crédito como Sicoob e Sicredi. Experiência sólida em testes manuais em aplicações Web, Desktop e Mobile. Expertise em testes automatizados de API com Postman + Newman e RestAssured, bem como automação Web com Selenium WebDriver utilizando Java.
+Ampla vivência na definição de estratégias de teste, planejamento, criação de casos e execução de testes funcionais, regressivos, exploratórios e de aceitação. Utilizo das técnicas de análise de requisitos, análise de logs, inspeção de código e verificação da integridade de dados para assegurar a qualidade dos sistemas.
+Sou uma pessoa detalhista, organizada e adoro trabalhar em equipe. Valorizo ambientes leves e colaborativos, onde há espaço para aprendizado mútuo e crescimento contínuo. Tenho facilidade de adaptação a diferentes contextos e estou acostumado a lidar com a volatilidade natural dos processos de desenvolvimento de software.
 
 
-## 👨‍💻Conhecimentos 
-
-### Na área de QA
+## 👨‍💻Conhecimentos na área de QA
 
 <details>
 <summary>Conhecimento das melhores ferramentas para garantir que o software seja sempre de alta qualidade.</summary>
