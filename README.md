@@ -23,11 +23,16 @@ Sou uma pessoa detalhista, organizada e adoro trabalhar em equipe. Valorizo ambi
 
 ---
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=WendelJSantos&show_icons=true&theme=radical" height="200" alt="stats graph"  />
+</div>
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=WendelJSantos&radius=16&theme=redical&area=true&order=5&hide_title=false&hide_border=true" height="200" alt="activity-graph graph"  />
+</div>
+<div align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WendelJSantos&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
+
 
 <!-- Contador de Visitantes -->
 <div align="center">
