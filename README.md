@@ -27,7 +27,7 @@ Sou uma pessoa detalhista, organizada e adoro trabalhar em equipe. Valorizo ambi
   <a href="https://github.com/WendelJSantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WendelJSantos&theme=react&hide_border=false&include_all_commits=false&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WendelJSantos&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
-  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=WendelJSantos&radius=16&theme=redical&area=true&order=5&hide_title=false&hide_border=true" alt="activity-graph graph"  />
+  <img height="360em" src="https://github-readme-activity-graph.vercel.app/graph?username=WendelJSantos&radius=16&theme=redical&area=true&order=5&hide_title=false&hide_border=true" alt="activity-graph graph"  />
 </div>
 
 
