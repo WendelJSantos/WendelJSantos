@@ -9,7 +9,7 @@
 - ✉️ wendel.jsantos@hotmail.com
 
 
-## 👨‍💻Sobre mim
+## 👨‍💻 Sobre mim
 
 👩🏻‍💻 Analista de Qualidade de Software (QA) com mais de 8 anos de experiência.
 
@@ -19,7 +19,7 @@
 
 ⚡ Possuo domínio em automação Web com Selenium WebDriver em Java, com projetos práticos realizados, e sigo buscando para expandir meu conhecimento na ferramenta e em boas práticas de automação.
 
-## 📈Minhas estatísticas
+## 📈 Minhas estatísticas
 <!-- Gráficos de Status, Linguagens mais utilizadas e últimas contribuições -->
 <div align="center">
   <a href="https://github.com/WendelJSantos">
