@@ -28,7 +28,6 @@
   <img height="260em" src="https://github-readme-activity-graph.vercel.app/graph?username=WendelJSantos&radius=16&theme=redical&area=true&order=5&hide_title=false&hide_border=true" alt="activity-graph graph"  />
 </div>
 
-
 <!-- Contador de Visitantes -->
 <div align="center">
   <br><p align="center"><b>Quantidade de visitantes</b></p>  
@@ -38,4 +37,3 @@
 
 <!-- Parte inferior da página -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=footer"/>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
