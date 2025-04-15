@@ -6,7 +6,7 @@
 
 ## 🌎 Encontre-me na web
 - 💼 [LinkedIn](https://www.linkedin.com/in/wendel-jsantos/)
-- ✉️ wendel.jsantos@hotmail.com
+- ✉️ [E-mail](wendel.jsantos@hotmail.com)
 
 
 ## 👨‍💻Sobre mim
