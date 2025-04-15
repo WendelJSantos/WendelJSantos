@@ -1,11 +1,8 @@
 <!-- Parte superior da página -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+sou+o+Wendel+Santos!+Bem+vindo+a+minha+página...+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+sou+o+Wendel+Santos!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-<h3 align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=000000&size=25&lines=Bem+-+vindo+a+minha+página..." /></a>
-</h3>
 
 ## 🌎 Encontre-me na web
 - 💼 [LinkedIn](https://www.linkedin.com/in/wendel-jsantos/)
@@ -14,10 +11,13 @@
 
 ## 👨‍💻Sobre mim
 
-Formado em Análise e Desenvolvimento de Sistemas
-Pós-graduado em Gestão e Desenvolvimento de Sistemas de Informação
+👩🏻‍💻 Analista de Qualidade de Software (QA) com mais de 8 anos de experiência.
 
-Atuando como QA e me aperfeiçoando em automação web com Selenium WebDriver em Java
+🏆 Sou certificado pelo BSTQB com as certificações CTFL (Certified Tester Foundation Level), CTFL-AT (Agile Tester) e CTAL-TAE (Test Automation Engineer). Essas certificações reforçam minha formação técnica e metodológica em testes de software, tanto em contextos tradicionais quanto ágeis e automatizados.
+
+🎓 Sou formado em Análise e Desenvolvimento de Sistemas pela UDF e Pós-graduado em Gestão e Desenvolvimento de Sistemas de Informação pela Faculdade JK.
+
+⚡ Possuo domínio em automação Web com Selenium WebDriver em Java, com projetos práticos realizados, e sigo buscando para expandir meu conhecimento na ferramenta e em boas práticas de automação.
 
 ---
 <!-- Gráficos de Status, Linguagens mais utilizadas e últimas contribuições -->
