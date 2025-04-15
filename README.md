@@ -1,8 +1,11 @@
 <!-- Parte superior da página -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+sou+Wendel+Santos!+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Ol%C3%A1%2C+sou+o+Wendel+Santos!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
+<h3 align="center">
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=000000&size=25&lines=Bem+-+vindo+a+minha+página..." /></a>
+</h3>
 
 ## 🌎 Encontre-me na web
 - 💼 [LinkedIn](https://www.linkedin.com/in/wendel-jsantos/)
@@ -11,29 +14,19 @@
 
 ## 👨‍💻Sobre mim
 
-Especialista em Qualidade de Software (QA) com mais de oito anos de experiência em garantia da qualidade em ambientes ágeis e tradicionais. Atuação sólida em testes manuais de APIs e aplicações Web, Desktop e Mobile. Expertise em automação de testes de API com Postman + Newman e RestAssured, além de automação Web com Selenium WebDriver utilizando Java.
+Formado em Análise e Desenvolvimento de Sistemas
+Pós-graduado em Gestão e Desenvolvimento de Sistemas de Informação
 
-Tenho facilidade em elaborar planos de teste e definir estratégias alinhadas às necessidades de cada produto. Sou um defensor do teste exploratório em versões iniciais do sistema, pois ele proporciona feedback rápido, antecipa a identificação de inconformidades e contribui para a redução de custos no desenvolvimento.
-
-Utilizo técnicas como análise de requisitos, análise de logs, inspeção de código e análise da integridade de dados para garantir a qualidade dos sistemas nos quais atuo.
-
-Sou uma pessoa detalhista, organizada e adoro trabalhar em equipe. Valorizo ambientes leves e colaborativos, onde há espaço para aprendizado mútuo e crescimento contínuo. Tenho facilidade de adaptação a diferentes contextos e estou acostumado a lidar com a volatilidade natural dos processos de desenvolvimento de software.
-
+Atuando como QA e me aperfeiçoando em automação web com Selenium WebDriver em Java
 
 ---
-
+<!-- Gráficos de Status, Linguagens mais utilizadas e últimas contribuições -->
 <div align="center">
   <a href="https://github.com/WendelJSantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WendelJSantos&theme=react&hide_border=false&include_all_commits=false&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WendelJSantos&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
   <img height="260em" src="https://github-readme-activity-graph.vercel.app/graph?username=WendelJSantos&radius=16&theme=redical&area=true&order=5&hide_title=false&hide_border=true" alt="activity-graph graph"  />
 </div>
-
-<picture align="center" >
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WendelJSantos/WendelJSantos/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WendelJSantos/WendelJSantos/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WendelJSantos/WendelJSantos/output/github-contribution-grid-snake.svg">
-</picture>
 
 
 <!-- Contador de Visitantes -->
